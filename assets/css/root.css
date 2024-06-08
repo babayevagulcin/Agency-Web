@@ -1,0 +1,23 @@
+:root {
+  --colorBlue: #1090cb;
+  --logoColor: #00329b;
+  --colorBlack: #000;
+  --colorWhite: #fff;
+  --heroTextColor: #5c5c5c;
+  --titleColor: #252525;
+  --footerTextColor: #515151;
+  --statementTextColor: #545454;
+
+  --bgColorBlue: #1090cb;
+  --bgColorWhite: #fff;
+  --bgColorBefore: #08d3bb;
+  --heroBgColorBlue: rgba(232, 244, 250, 1);
+  --btnDarkBgColor: #000;
+  --iconPurpleBgColor: #4628a4;
+  --iconGreenBgColor: #ecffda;
+  --iconBlueBgColor: #dae6ff;
+  --iconRedBgColor: #ffe5da;
+  --happyIconGreenBgColor: #08d3bb;
+  --happyIconBlueBgColor: #1090cb;
+  --happyIconPurpleBgColor: #9208d3;
+}
